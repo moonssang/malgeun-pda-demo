@@ -1,0 +1,1 @@
+{"name":"malgeun-field-mobile","version":"2.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/engine.test.js tests/batch-trace.test.js","check":"node --check dist/app.js && node --check dist/engine.js && node --check dist/camera.js && node --check dist/barcodes.js && node --check dist/trace.js"}}
